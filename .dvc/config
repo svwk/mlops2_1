@@ -1,0 +1,7 @@
+[core]
+    remote = ssh-storage
+['remote "ssh-storage"']
+    url = ssh://dvc@data_srv/var/datasets
+    password = 1
+    user = admin
+    port = 22
