@@ -1,1 +1,3 @@
 catboost
+scikit_learn
+pyyaml
